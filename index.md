@@ -8,5 +8,5 @@ hallo mijn naam is Luka en dit is mijn website.
 ![bulbasaur](./files/bulbasaur.png)
 
 ## Ivysaur
-![ivysaur](./files/ivysaur.png
+![ivysaur](./files/ivysaur.png)
 
