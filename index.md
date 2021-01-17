@@ -22,6 +22,15 @@ hallo mijn naam is Luka en dit is mijn website.
 ## Charizard 006
 ![charizard](./files/charizard.png)
 
+## Squirtle 007
+![squirtle](./files/squirtle.png)
+
+## Wartortle 008
+![wartortle](./files/wartortle.png)
+
+## Blastoise 009
+![blastoise](./files/blastoise.png)
+
 
 
 
