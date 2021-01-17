@@ -4,11 +4,11 @@
 
 hallo mijn naam is Luka en dit is mijn website.
 
-## Bulbasaur
+## Bulbasaur 001
 ![bulbasaur](./files/bulbasaur.png)
 
-## Ivysaur
+## Ivysaur 002
 ![ivysaur](./files/ivysaur.png)
 
-## Venusaur
+## Venusaur 003
 ![venusaur](./files/venusaur.png)
