@@ -12,3 +12,6 @@ hallo mijn naam is Luka en dit is mijn website.
 
 ## Venusaur 003
 ![venusaur](./files/venusaur.png)
+
+## Charmander 004
+![charmander](./files/charmander.png)
