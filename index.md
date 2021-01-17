@@ -31,6 +31,15 @@ hallo mijn naam is Luka en dit is mijn website.
 ## Blastoise 009
 ![blastoise](./files/blastoise.png)
 
+## Caterpie 010
+![caterpie](./files/caterpie.png)
+
+## Metapod 011
+![metapod](./files/caterpie.png)
+
+## Butterfree 012
+![butterfree](./files/butterfree.png)
+
 
 
 
