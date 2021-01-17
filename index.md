@@ -4,14 +4,9 @@
 
 hallo mijn naam is Luka en dit is mijn website.
 
-# hallo
+## Bulbasaur
+![bulbasaur](./files/bulbasaur.png)
 
-## hallo
+## Ivysaur
+![ivysaur](./files/ivysaur.png
 
-### hallo
-
-dit is **vet**
-en dit is *schuin*
-
-> Dit is een blokje
-> bla bla
