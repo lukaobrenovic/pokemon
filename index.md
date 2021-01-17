@@ -15,3 +15,18 @@ hallo mijn naam is Luka en dit is mijn website.
 
 ## Charmander 004
 ![charmander](./files/charmander.png)
+
+## Charmeleon 005
+![charmeleon](./files/charmeleon.png)
+
+## Charizard 006
+![charizard](./files/charizard.png)
+
+
+
+
+
+
+
+
+
