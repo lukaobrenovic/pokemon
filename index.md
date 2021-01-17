@@ -11,4 +11,4 @@ hallo mijn naam is Luka en dit is mijn website.
 ![ivysaur](./files/ivysaur.png)
 
 ## Venusaur
-![venusaur](./files/venusaur.png)
+![venasaur](./files/venasaur.png)
