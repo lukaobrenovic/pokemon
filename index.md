@@ -64,6 +64,9 @@ hallo, mijn naam is Luka en dit is mijn website.
 ## Raticate 020
 ![raticate](./files/raticate.png)
 
+## Spearow 021
+![spearow](./files/spearow.png)
+
 
 
 
