@@ -88,6 +88,32 @@ hallo, mijn naam is Luka en dit is mijn website.
 ## Sandslash 028
 ![sandslash](./files/sandslash.png)
 
+## Nidoran 029
+![nidoran](./files/nidoran.png)
+
+## Nidorina 030
+![nidorina](./files/nidorina.png)
+
+## Nidoqueen 031
+![nidoqueen](./files/nidoqueen.png)
+
+## Nidoran 032
+![Nidoran](./files/Nidoran.png)
+
+## Nidorino 033
+![nidorino](./files/nidorino.png)
+
+## Nidoking 034
+![nidoking](./files/nidoking.png)
+
+
+
+
+
+
+
+
+
 
 
 
