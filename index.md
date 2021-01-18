@@ -79,7 +79,7 @@ hallo, mijn naam is Luka en dit is mijn website.
 ## Pikachu 025
 ![pikachu](./files/pikachu.png)
 
-## Raichu 026 llaallaa
+## Raichu 026 
 ![raichu](./files/raichu.png)
 
 ## Sandshrew 027
