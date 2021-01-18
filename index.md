@@ -40,11 +40,8 @@ hallo mijn naam is Luka en dit is mijn website.
 ## Butterfree 012
 ![butterfree](./files/butterfree.png)
 
+## Weedle 013
+![weedle](./files/weedle.png)
 
-
-
-
-
-
-
-
+## Kakuna 014
+![kakuna](./files/kakuna.png)
