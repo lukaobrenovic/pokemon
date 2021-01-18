@@ -58,6 +58,12 @@ hallo, mijn naam is Luka en dit is mijn website.
 ## pidgeot 018
 ![pidgeot](./files/pidgeot.png)
 
+## Rattata 019
+![rattata](./files/rattata.png)
+
+## Raticate 020
+![raticate](./files/raticate.png)
+
 
 
 
