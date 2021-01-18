@@ -2,7 +2,7 @@
 
 ## Welkom
 
-hallo mijn naam is Luka en dit is mijn website.
+hallo, mijn naam is Luka en dit is mijn website.
 
 ## Bulbasaur 001
 ![bulbasaur](./files/bulbasaur.png)
