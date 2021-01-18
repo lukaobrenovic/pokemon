@@ -76,6 +76,18 @@ hallo, mijn naam is Luka en dit is mijn website.
 ## Arbok 024
 ![arbok](./files/arbok.png)
 
+## Pikachu 025
+![pikachu](./files/pikachu.png)
+
+## Raichu 026
+![raichu](./files/raichu.png)
+
+## Sandshrew 027
+![sandshrew](./files/sandshrew.png)
+
+## Sandslash 028
+![sandslash](./files/sandslash.png)
+
 
 
 
