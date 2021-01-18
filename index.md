@@ -67,6 +67,15 @@ hallo, mijn naam is Luka en dit is mijn website.
 ## Spearow 021
 ![spearow](./files/spearow.png)
 
+## Fearow 022
+![fearow](./files/fearow.png)
+
+## Ekans 023
+![ekans](./files/ekans.png)
+
+## Arbok 024
+![arbok](./files/arbok.png)
+
 
 
 
