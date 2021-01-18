@@ -45,3 +45,27 @@ hallo, mijn naam is Luka en dit is mijn website.
 
 ## Kakuna 014
 ![kakuna](./files/kakuna.png)
+
+## Beedrill 015
+![beedril](./files/beedrill.png)
+
+## Pidgey 016
+![pidgey](./files/pidgey.png)
+
+## Pidgeotto 017
+![pidgeotto](./files/pidgeotto.png)
+
+## pidgeot 018
+![pidgeot](./files/pidgeot.png)
+
+
+
+
+
+
+
+
+
+
+
+
