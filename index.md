@@ -199,8 +199,8 @@ hallo, mijn naam is Luka en dit is mijn website.
 ## Alakazam 065
 ![alakazam](./files/alakazam.png)
 
-## Machop 066
-![machop](./files/machop.png)
+## Machomp 066
+![machomp](./files/machomp.png)
 
 ## Machoke 067
 ![machoke](./files/machoke.png)
