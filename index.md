@@ -169,5 +169,18 @@ hallo, mijn naam is Luka en dit is mijn website.
 ## Golduck 055
 ![golduck](./files/golduck.png)
 
+## Mankey 056
+![mankey](./files/mankey.png)
+
+## Primeape 057
+![primeape](./files/primeape.png)
+
+## Growlithe 058
+![growlithe](./files/growlithe.png)
+
+## Arcanine 059
+![arcanine](./files/arcanine.png)
+
+
 
 
