@@ -214,7 +214,7 @@ hallo, mijn naam is Luka en dit is mijn website.
 ## Weepinbell 070
 ![weepinbell](./files/weepinbell.png)
 
-## Victreebell 071
-![victreebell](./files/victreebell.png)
+## Victreebel 071
+![victreebel](./files/victreebel.png)
 
 
