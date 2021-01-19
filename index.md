@@ -116,7 +116,7 @@ hallo, mijn naam is Luka en dit is mijn website.
 ![vulpix](./files/vulpix.png)
 
 ## Ninetales 038
-![ninetales](./files/ninetiles.png)
+![ninetales](./files/ninetales.png)
 
 ## Jigglypuff 039
 ![jigglypuff](./files/jigglypuff.png)
