@@ -244,4 +244,8 @@ hallo, mijn naam is Luka en dit is mijn website.
 ## Slowbro 080
 ![slowbro](./files/slowbro.png)
 
+## Magnemite 081
+![magnemite](./files/magnemite.png)
 
+## Magneton 082
+![magneton](./files/magneton.png)
