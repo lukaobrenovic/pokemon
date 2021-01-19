@@ -151,5 +151,23 @@ hallo, mijn naam is Luka en dit is mijn website.
 ## Venomoth 049
 ![venomoth](./files/venomoth.png)
 
+## Diglett 050
+![diglett](./files/diglett.png)
+
+## Dugtrio 051
+![dugtrio](./files/dugtrio.png)
+
+## Meowth 052
+![meowth](./files/meowth.png)
+
+## Persian 053
+![persian](./files/persian.png)
+
+## Psyduck 054
+![psyduck](./files/psyduck.png)
+
+## Golduck 055
+![golduck](./files/golduck.png)
+
 
 
