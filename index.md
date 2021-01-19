@@ -199,9 +199,22 @@ hallo, mijn naam is Luka en dit is mijn website.
 ## Alakazam 065
 ![alakazam](./files/alakazam.png)
 
+## Machop 066
+![machop](./files/machop.png)
 
+## Machoke 067
+![machoke](./files/machoke.png)
 
+## Machamp 068
+![machamp](./files/machamp.png)
 
+## Bellsprout 069
+![bellsprout](./files/bellsprout.png)
 
+## Weepinbell 070
+![weepinbell](./files/weepinbell.png)
+
+## Victreebell 071
+![victreebell](./files/victreebell.png)
 
 
