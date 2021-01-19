@@ -124,5 +124,32 @@ hallo, mijn naam is Luka en dit is mijn website.
 ## Wigglytuff 040
 ![wigglytuff](./files/wigglytuff.png)
 
+## Zubat 041
+![zubat](./files/zubat.png)
+
+## golbat 042
+![golbat](./files/golbat.png)
+
+## Oddish 043
+![oddish](./files/oddish.png)
+
+## Gloom 044
+![gloom](./files/gloom.png)
+
+## Vileplume 045
+![vileploom](./files/vileplume.png)
+
+## Paras 046
+![paras](./files/paras.png)
+
+## Parasect 047
+![parasect](./files/parasect.png)
+
+## Venonat 048
+![venonat](./files/venonat.png)
+
+## Venomoth 049
+![venomoth](./files/venomoth.png)
+
 
 
