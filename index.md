@@ -217,4 +217,31 @@ hallo, mijn naam is Luka en dit is mijn website.
 ## Victreebel 071
 ![victreebel](./files/victreebel.png)
 
+## Tentacool 072
+![tentacool](./files/tentacool.png)
+
+## Tentacruel 073
+![tentacruel](./files/tentacruel.png)
+
+## Geodude 074
+![geodude](./files/geodude.png)
+
+## Graveler 075
+![graveler](./files/graveler.png)
+
+## Golem 076
+![golem](./files/golem.png)
+
+## Ponyta 077
+![ponyta](./files/ponyta.png)
+
+## Rapidash 078
+![rapidash](./files/rapidash.png)
+
+## Slowpoke 079
+![slowpoke](./files/slowpoke.png)
+
+## Slowbro 080
+![slowbro](./files/slowbro.png)
+
 
