@@ -181,6 +181,27 @@ hallo, mijn naam is Luka en dit is mijn website.
 ## Arcanine 059
 ![arcanine](./files/arcanine.png)
 
+## Poliwag 060
+![poliwag](./files/poliwag.png)
+
+## Poliwhirl 061
+![poliwhirl](./files/poliwhirl.png)
+
+## poliwrath 062
+![poliwrath](./files/poliwrath.png)
+
+## Abra 063
+![abra](./files/abra.png)
+
+## Kadabra 064
+![kadabra](./files/kadabra.png)
+
+## Alakazam 065
+![alakazam](./files/alakazam.png)
+
+
+
+
 
 
 
