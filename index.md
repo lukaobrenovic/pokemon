@@ -106,14 +106,23 @@ hallo, mijn naam is Luka en dit is mijn website.
 ## Nidoking 034
 ![nidoking](./files/nidoking.png)
 
+## Clefairy 035
+![clefairy](./files/clefairy.png)
 
+## Clefable 036
+![clefable](./files/clefable.png)
 
+## vulpix 037
+![vulpix](./files/vulpix.png)
 
+## Ninetales 038
+![ninetales](./files/ninetiles.png)
 
+## Jigglypuff 039
+![jigglypuff](./files/jigglypuff.png)
 
-
-
-
+## Wigglytuff 040
+![wigglytuff](./files/wigglytuff.png)
 
 
 
