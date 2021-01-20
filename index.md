@@ -259,4 +259,33 @@ hallo, mijn naam is Luka en dit is mijn website.
 ## Dodrio 085
 ![dodrio](./files/dodrio.png)
 
+## Seel 086
+![seel](./files/seel.png)
+
+## Dewgong 087
+![dewgong](./files/dewgong.png)
+
+## Grimer 088
+![grimer](./files/grimer.png)
+
+## Muk 089
+![muk](./files/muk.png)
+
+## Shellder 090
+![shellder](./files/shellder.png)
+
+## Cloyster 091
+![cloyster](./files/cloyster.png)
+
+## Gastly 092
+![gastly](./files/gastly.png)
+
+## Haunter 093
+![haunter](./files/haunter.png)
+
+## Gengar 094
+![gengar](./files/gengar.png)
+
+
+
 
