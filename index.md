@@ -286,6 +286,9 @@ hallo, mijn naam is Luka en dit is mijn website.
 ## Gengar 094
 ![gengar](./files/gengar.png)
 
+## Onix 095
+![onix](./files/onix.png)
+
 
 
 
