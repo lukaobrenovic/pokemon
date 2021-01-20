@@ -251,7 +251,7 @@ hallo, mijn naam is Luka en dit is mijn website.
 ![magneton](./files/magneton.png)
 
 ## Farfetch´d 083
-![farfetch´d](./files/farfetch.png)
+![farfetch´d](./files/farfetch´d.png)
 
 ## Duduo 084
 ![duduo](./files/duduo.png)
