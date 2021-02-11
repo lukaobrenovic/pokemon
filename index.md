@@ -311,7 +311,7 @@ hallo, mijn naam is Luka en dit is mijn website.
 ![exeggcute](./files/exeggcute.png)
 
 ## Exeggutor 103
-![exeggutor](./files/exeggutor.png)
+![Exeggutor](./files/Exeggutor.png)
 
 
 
