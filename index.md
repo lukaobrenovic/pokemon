@@ -305,13 +305,13 @@ hallo, mijn naam is Luka en dit is mijn website.
 ![voltorb](./files/voltorb.png)
 
 ## Electrode 101
-[electrode](./files/electrode.png)
+![electrode](./files/electrode.png)
 
 ## Exeggcute 102
-[exeggcute](./files/exeggcute.png)
+![exeggcute](./files/exeggcute.png)
 
 ## Exeggutor 103
-[exeggutor](./files/exeggutor.png)
+![exeggutor](./files/exeggutor.png)
 
 
 
