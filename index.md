@@ -289,6 +289,30 @@ hallo, mijn naam is Luka en dit is mijn website.
 ## Onix 095
 ![onix](./files/onix.png)
 
+## Drowzee 096
+![drowzee](./files/drowzee.png)
+
+## Hypno 097
+![hypno](./files/hypno.png)
+
+## Krabby 098
+![krabby](./files/krabby.png)
+
+## Kingler 099
+![kingler](./files/kingler.png)
+
+## Voltorb 100
+![voltorb](./files/voltorb.png)
+
+## Electrode 101
+[electrode](./files/electrode.png)
+
+## Exeggcute 102
+[exeggcute](./files/exeggcute.png)
+
+## Exeggutor 103
+[exeggutor](./files/exeggutor.png)
+
 
 
 
