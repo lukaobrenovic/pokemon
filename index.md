@@ -250,67 +250,64 @@ hallo, mijn naam is Luka en dit is mijn website.
 ## Magneton 082
 ![magneton](./files/magneton.png)
 
-## Farfetch´d 083
-![farfetch´d](./files/farfetch´d.png)
-
-## Duduo 084
+## Duduo 083
 ![duduo](./files/duduo.png)
 
-## Dodrio 085
+## Dodrio 084
 ![dodrio](./files/dodrio.png)
 
-## Seel 086
+## Seel 085
 ![seel](./files/seel.png)
 
-## Dewgong 087
+## Dewgong 086
 ![dewgong](./files/dewgong.png)
 
-## Grimer 088
+## Grimer 087
 ![grimer](./files/grimer.png)
 
-## Muk 089
+## Muk 088
 ![muk](./files/muk.png)
 
-## Shellder 090
+## Shellder 089
 ![shellder](./files/shellder.png)
 
-## Cloyster 091
+## Cloyster 090
 ![cloyster](./files/cloyster.png)
 
-## Gastly 092
+## Gastly 091
 ![gastly](./files/gastly.png)
 
-## Haunter 093
+## Haunter 092
 ![haunter](./files/haunter.png)
 
-## Gengar 094
+## Gengar 093
 ![gengar](./files/gengar.png)
 
-## Onix 095
+## Onix 094
 ![onix](./files/onix.png)
 
-## Drowzee 096
+## Drowzee 095
 ![drowzee](./files/drowzee.png)
 
-## Hypno 097
+## Hypno 096
 ![hypno](./files/hypno.png)
 
-## Krabby 098
+## Krabby 097
 ![krabby](./files/krabby.png)
 
-## Kingler 099
+## Kingler 098
 ![kingler](./files/kingler.png)
 
-## Voltorb 100
+## Voltorb 099
 ![voltorb](./files/voltorb.png)
 
-## Electrode 101
+## Electrode 100
 ![electrode](./files/electrode.png)
 
-## Exeggcute 102
+## Exeggcute 101
 ![exeggcute](./files/exeggcute.png)
 
-## Exeggutor 103
+## Exeggutor 102
 ![Exeggutor](./files/Exeggutor.png)
 
 
