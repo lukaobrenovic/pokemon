@@ -325,7 +325,44 @@ hallo, mijn naam is Luka en dit is mijn website.
 ## Lickitung 107
 ![lickitung](./files/lickitung.png)
 
+## Koffing 108
+![koffing](./files/koffing.png)
 
+## Weezing 109
+![weezing](./files/weezing.png)
+
+## Rhyhorn 110
+![rhyhorn](./files/rhyhorn.png)
+
+## Rhydon 111
+![rhydon](./files/rhydon.png)
+
+## Chansey 112
+![cansey](./files/chansey.png)
+
+## Tangela 113
+![tangela](./files/tangela.png)
+
+## Kangaskhan 114
+![kangaskhan](./files/kangaskhan.png)
+
+## Horsea 115
+![horsea](./files/horsea.png)
+
+## Seadra 116
+![seadra](./files/seadra.png)
+
+## Goldeen 117
+![goldeen](./files/goldeen.png)
+
+## Seaking 118
+![seaking](./files/seaking.png)
+
+## Staryu 119
+![staryu](./files/staryu.png)
+
+## Starmie 120
+![starmie](./files/starmie.png)
 
 
 
