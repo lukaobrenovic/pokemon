@@ -310,6 +310,23 @@ hallo, mijn naam is Luka en dit is mijn website.
 ## Exeggutor 102
 ![Exeggutor](./files/Exeggutor.png)
 
+## Cubone 103
+![cubone](./files/cubone.png)
+
+## Marowak 104
+![marowak](./files/marowak.png)
+
+## Hitmonlee 105
+![hitmonlee](./files/hitmonlee.png)
+
+## Hitmonchan 106
+![hitmonchan](./files/hitmonchan.png)
+
+## Lickitung 107
+![lickitung](./files/lickitung.png)
+
+
+
 
 
 
