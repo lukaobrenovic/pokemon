@@ -250,127 +250,124 @@ hallo, mijn naam is Luka en dit is mijn website.
 ## Magneton 082
 ![magneton](./files/magneton.png)
 
-## Farfech´d 083
-![farfech´d](./files/farfech´d.png)
-
-## Duduo 084
+## Duduo 083
 ![duduo](./files/duduo.png)
 
-## Dodrio 085
+## Dodrio 084
 ![dodrio](./files/dodrio.png)
 
-## Seel 086
+## Seel 085
 ![seel](./files/seel.png)
 
-## Dewgong 087
+## Dewgong 086
 ![dewgong](./files/dewgong.png)
 
-## Grimer 088
+## Grimer 087
 ![grimer](./files/grimer.png)
 
-## Muk 089
+## Muk 088
 ![muk](./files/muk.png)
 
-## Shellder 090
+## Shellder 089
 ![shellder](./files/shellder.png)
 
-## Cloyster 091
+## Cloyster 090
 ![cloyster](./files/cloyster.png)
 
-## Gastly 092
+## Gastly 091
 ![gastly](./files/gastly.png)
 
-## Haunter 093
+## Haunter 092
 ![haunter](./files/haunter.png)
 
-## Gengar 094
+## Gengar 093
 ![gengar](./files/gengar.png)
 
-## Onix 095
+## Onix 094
 ![onix](./files/onix.png)
 
-## Drowzee 096
+## Drowzee 095
 ![drowzee](./files/drowzee.png)
 
-## Hypno 097
+## Hypno 096
 ![hypno](./files/hypno.png)
 
-## Krabby 098
+## Krabby 097
 ![krabby](./files/krabby.png)
 
-## Kingler 099
+## Kingler 098
 ![kingler](./files/kingler.png)
 
-## Voltorb 100
+## Voltorb 99
 ![voltorb](./files/voltorb.png)
 
-## Electrode 101
+## Electrode 100
 ![electrode](./files/electrode.png)
 
-## Exeggcute 102
+## Exeggcute 101
 ![exeggcute](./files/exeggcute.png)
 
-## Exeggutor 103
+## Exeggutor 102
 ![Exeggutor](./files/Exeggutor.png)
 
-## Cubone 104
+## Cubone 103
 ![cubone](./files/cubone.png)
 
-## Marowak 105
+## Marowak 104
 ![marowak](./files/marowak.png)
 
-## Hitmonlee 106
+## Hitmonlee 105
 ![hitmonlee](./files/hitmonlee.png)
 
-## Hitmonchan 107
+## Hitmonchan 106
 ![hitmonchan](./files/hitmonchan.png)
 
-## Lickitung 108
+## Lickitung 107
 ![lickitung](./files/lickitung.png)
 
-## Koffing 109
+## Koffing 108
 ![koffing](./files/koffing.png)
 
-## Weezing 110
+## Weezing 109
 ![weezing](./files/weezing.png)
 
-## Rhyhorn 111
+## Rhyhorn 110
 ![rhyhorn](./files/rhyhorn.png)
 
-## Rhydon 112
+## Rhydon 111
 ![rhydon](./files/rhydon.png)
 
-## Chansey 113
+## Chansey 112
 ![cansey](./files/chansey.png)
 
-## Tangela 114
+## Tangela 113
 ![tangela](./files/tangela.png)
 
-## Kangaskhan 115
+## Kangaskhan 114
 ![kangaskhan](./files/kangaskhan.png)
 
-## Horsea 116
+## Horsea 115
 ![horsea](./files/horsea.png)
 
-## Seadra 117
+## Seadra 116
 ![seadra](./files/seadra.png)
 
-## Goldeen 118
+## Goldeen 117
 ![goldeen](./files/goldeen.png)
 
-## Seaking 119
+## Seaking 118
 ![seaking](./files/seaking.png)
 
-## Staryu 120
+## Staryu 119
 ![staryu](./files/staryu.png)
 
-## Starmie 121
+## Starmie 120
 ![starmie](./files/starmie.png)
 
-## Mr.Mime 122
+## Mr.Mime 121
 ![mr.mime](./files/mr.mime.png)
 
-## Scyther 123
+## Scyther 122
 ![scyther](./files/scyther.png)
 
 
