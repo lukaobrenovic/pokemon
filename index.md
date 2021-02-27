@@ -364,6 +364,9 @@ hallo, mijn naam is Luka en dit is mijn website.
 ## Starmie 120
 ![starmie](./files/starmie.png)
 
+## Mr.Mime 121
+![mr.mime](./files/mr.mime.png)
+
 
 
 
