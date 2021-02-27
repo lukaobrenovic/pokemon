@@ -370,6 +370,12 @@ hallo, mijn naam is Luka en dit is mijn website.
 ## Scyther 122
 ![scyther](./files/scyther.png)
 
+## Jynx 123
+![jynx](./files/jynx.png)
+
+## Electabuzz 124
+![electabuzz](./files/electabuzz.png)
+
 
 
 
