@@ -377,7 +377,7 @@ hallo, mijn naam is Luka en dit is mijn website.
 ![electabuzz](./files/electabuzz.png)
 
 ## Farfech´d 125
-![farfeche´d](./files/farfeched.png)
+![farfeche´d](./files/farfetched.png)
 
 
 
