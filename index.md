@@ -380,8 +380,6 @@ hallo, mijn naam is Luka en dit is mijn website.
 ![farfeche´d](./files/farfetched.png)
 
 
-Link:
-voor een filmpje [klik hier](https://www.youtube.com/watch?v=AOeiT_hblcQ)
 
 
 
