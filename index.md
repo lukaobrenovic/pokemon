@@ -399,6 +399,27 @@ hallo, mijn naam is Luka en dit is mijn website.
 ## Ditto 132
 ![ditto](./files/ditto.png)
 
+## Eevee 133
+![eevee](./files/eevee.png)
+
+## Vaporeon 134
+![vaporeon](./files/vaporeon.png)
+
+## Jolteon 135
+![jolteon](./files/jolteon.png)
+
+## Flareon 136
+![flareon](./files/flareon.png)
+
+## Porygon 137
+![porygon](./files/porygon.png)
+
+## Omanyte 138
+![omanyte](./files/omantyte.png)
+
+## Omastar 139
+![omastar](./files/omastar.png)
+
 
 
 
