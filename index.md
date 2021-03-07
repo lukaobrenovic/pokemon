@@ -393,6 +393,12 @@ hallo, mijn naam is Luka en dit is mijn website.
 ## Gyarados 130
 ![gyarados](./files/gyarados.png)
 
+## Lapras 131
+![lapras](./files/lapras.png)
+
+## Ditto 132
+![ditto](./files/ditto.png)
+
 
 
 
