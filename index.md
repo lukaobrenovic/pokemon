@@ -384,6 +384,14 @@ hallo, mijn naam is Luka en dit is mijn website.
 ## Pinsir 127
 ![pinsir](./files/pinsir.png)
 
+## Tauros 128
+![tauros](./files/tauros.png)
+
+## Magikarp 129
+![magikarp](./files/magikarp.png)
+
+## Gyarados 130
+![gyarados](./files/gyarados.png)
 
 
 
