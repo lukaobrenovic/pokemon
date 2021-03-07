@@ -378,6 +378,15 @@ hallo, mijn naam is Luka en dit is mijn website.
 ## Farfech´d 125
 ![farfeche´d](./files/farfetched.png)
 
+## Magmar 126
+![magmar](./files/magmar.png)
+
+## Pinsir 127
+![pinsir](./files/pinsir.png)
+
+
+
+
 
 
 
