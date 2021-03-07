@@ -415,7 +415,7 @@ hallo, mijn naam is Luka en dit is mijn website.
 ![porygon](./files/porygon.png)
 
 ## Omanyte 138
-![omanyte](./files/omantyte.png)
+![omanyte](./files/omanyte.png)
 
 ## Omastar 139
 ![omastar](./files/omastar.png)
