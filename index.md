@@ -420,7 +420,8 @@ hallo, mijn naam is Luka en dit is mijn website.
 ## Omastar 139
 ![omastar](./files/omastar.png)
 
-
+## Kabuto 140
+![kabuto](./files/kabuto.png)
 
 
 
