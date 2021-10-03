@@ -423,6 +423,9 @@ hallo, mijn naam is Luka en dit is mijn website.
 ## Kabuto 140
 ![kabuto](./files/kabuto.png)
 
+## Kabutops 141
+![kabutops](./files/kabutops.png)
+
 
 
 
